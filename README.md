@@ -18,6 +18,6 @@ https://user-images.githubusercontent.com/84279029/154058146-5477529a-c332-4fae-
 
 ![Screenshot (639)](https://user-images.githubusercontent.com/84279029/154533163-381c7134-8586-46a7-b75e-99bbd8ce36b4.png)
 
-<h3>RESPONSIVNESS</h3>
+<h3>RESPONSIVENESS</h3>
 
 ![Screenshot (640)](https://user-images.githubusercontent.com/84279029/154533172-80d22f00-833b-4273-85f4-6d84539505d6.png)
